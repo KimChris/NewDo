@@ -1,5 +1,6 @@
 .actionscriptProperties
 .settings
 .metadata
-.projects
+.project
 bin-debug
+.DS_Store
